@@ -1,4 +1,4 @@
 # repository221111
 
-hogehoge
-fugafuga
+- hogehoge
+- fugafuga
